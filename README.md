@@ -18,7 +18,7 @@
 [Click here for more information](https://pepy.tech/project/pami)
 
 
-***
+*** Ganesh Kumar Reddy
 
 # Table of Contents
 
